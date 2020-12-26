@@ -1,0 +1,6 @@
+{
+  "port": 2000,
+  "jwtSecret": "ver0nika_test",
+  "mongoUri": "mongodb+srv://dmytro:ver0nika@cluster0.gg42h.mongodb.net/Learn_MERN_Stack_Tutorial?retryWrites=true&w=majority",
+  "baseUrl":"http://localhost:2000"
+}
